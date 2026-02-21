@@ -1,38 +1,43 @@
 # Hi, I'm Ahzam 👋
 
-I am a Computer Science student passionate about Cybersecurity, AI systems, and building practical technology solutions.
+Computer Science student focused on **Cybersecurity, AI-driven systems, and full-stack development**.  
+I build practical, security-oriented and intelligent applications with real-world relevance.
 
-Currently learning and working on security tools, system design, and intelligent applications.
+---
 
-## About Me
+## 🚀 About Me
 
-- 🔐 Interested in Cybersecurity and Ethical Hacking  
-- 🤖 Exploring AI-powered applications  
-- 🛠️ Building hands-on technical projects  
-- 📚 Currently learning advanced security tools and system architecture  
-- 🎯 Goal: To become a skilled Security Engineer
+- 🔐 Strong interest in Cybersecurity & Ethical Hacking  
+- 🤖 Building AI-powered and retrieval-based applications  
+- 🛠️ Hands-on experience with backend APIs and frontend integration  
+- 📚 Continuously learning system architecture and security practices  
+- 🎯 Career Goal: Security Engineer / AI Systems Developer  
 
-## Technical Skills
+---
+
+## 🧠 Technical Skills
 
 ### Languages
-Python, JavaScript, HTML, CSS
+Python • JavaScript • HTML • CSS
+
+### Frameworks & Technologies
+FastAPI • React • Retrieval-Augmented Generation (RAG)
 
 ### Tools & Platforms
-Git, GitHub, Kali Linux, Wireshark, OWASP ZAP, VS Code
+Git • GitHub • Kali Linux • Wireshark • OWASP ZAP • VS Code
 
 ### Currently Exploring
-Network Security, Web Application Security, AI Systems
+Web Application Security • Network Security • AI Systems Design
 
-## Featured Projects
+---
 
-- 🔐 **Secure Password Generator**  
-  A Python-based tool that generates strong and customizable passwords.
+## 🌟 Featured Projects
 
-- 🤖 **Consumer Rights Chatbot**  
-  An AI-powered chatbot designed to assist users with consumer-related issues.
+### 🚗 Automotive FAQ Assistant  
+AI-powered assistant built using FastAPI and React, implementing Retrieval-Augmented Generation (RAG) for intelligent information retrieval.
 
-- 🌐 **Web Application Security Analysis**  
-  Practical security testing and vulnerability analysis using OWASP ZAP.
+### 🔐 Codmetric Cybersecurity Internship  
+Python-based security tools including password generators, strength analyzers, and encryption utilities.
 
-- 🛰️ **Network Traffic Analysis**  
-  Packet inspection and traffic analysis using Wireshark and port scanning tools.
+### 💻 Cognifyz Web Development Internship  
+Frontend-focused responsive web projects built with HTML, CSS, JavaScript, Bootstrap, and Bulma.
