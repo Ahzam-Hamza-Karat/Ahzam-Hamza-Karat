@@ -11,3 +11,14 @@ Currently learning and working on security tools, system design, and intelligent
 - 🛠️ Building hands-on technical projects  
 - 📚 Currently learning advanced security tools and system architecture  
 - 🎯 Goal: To become a skilled Security Engineer
+
+## Technical Skills
+
+### Languages
+Python, JavaScript, HTML, CSS
+
+### Tools & Platforms
+Git, GitHub, Kali Linux, Wireshark, OWASP ZAP, VS Code
+
+### Currently Exploring
+Network Security, Web Application Security, AI Systems
